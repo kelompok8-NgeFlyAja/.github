@@ -15,10 +15,10 @@ A flight ticket booking application that makes it easy for users to search, comp
 
 | Name                               | Learning Path |
 | :--------------------------------- | :------------ |
-| Alif Najmi Raihan Putra Hidayat    | Front-End Web Development |
-| Abdi Pranawa Satura Ardana         | Front-End Web Development |
-| Gede Brandon Abelio Ogaden         | Front-End Web Development |
-| Ferdi Firdaus Ega Pratama          | Front-End Web Development |
+| Alif Najmi Raihan Putra Hidayat    | Full-Stack Web Development |
+| Abdi Pranawa Satura Ardana         | Full-Stack Web Development |
+| Gede Brandon Abelio Ogaden         | Full-Stack Web Development |
+| Ferdi Firdaus Ega Pratama          | Full-Stack Web Development |
 | Aldy Ramadhan Syahputra            | Back-End Development |
 | Adam Arrahman                      | Back-End Development |
 | Via Angelyca Patricia              | Back-End Development |
